@@ -7,10 +7,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -20,10 +19,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -33,10 +31,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -46,10 +43,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -59,10 +55,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -72,10 +67,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -85,10 +79,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -98,10 +91,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -111,10 +103,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -124,10 +115,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -137,10 +127,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -150,10 +139,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -163,10 +151,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -176,10 +163,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -189,10 +175,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -202,10 +187,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -215,10 +199,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -228,10 +211,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -241,10 +223,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -254,10 +235,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -267,10 +247,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -280,10 +259,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -293,10 +271,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -306,10 +283,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -319,10 +295,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -332,10 +307,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -345,10 +319,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -358,10 +331,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -371,10 +343,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -384,10 +355,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -397,10 +367,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -410,10 +379,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -423,10 +391,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -436,10 +403,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -449,10 +415,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -462,10 +427,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -475,10 +439,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -488,10 +451,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -501,10 +463,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -514,10 +475,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -527,10 +487,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -540,10 +499,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -553,10 +511,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -566,10 +523,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -579,10 +535,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -592,10 +547,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -605,10 +559,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -618,10 +571,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -631,10 +583,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -644,10 +595,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -657,10 +607,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -670,10 +619,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -683,10 +631,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -696,10 +643,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -709,10 +655,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -722,10 +667,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -735,10 +679,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -748,10 +691,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -761,10 +703,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -774,10 +715,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -787,10 +727,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -800,10 +739,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -813,10 +751,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -826,10 +763,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -839,10 +775,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -852,10 +787,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -865,10 +799,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -878,10 +811,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -891,10 +823,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -904,10 +835,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -917,10 +847,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -930,10 +859,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -943,10 +871,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -956,10 +883,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -969,10 +895,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -982,10 +907,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -995,10 +919,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1008,10 +931,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1021,10 +943,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1034,10 +955,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1047,10 +967,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1060,10 +979,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1073,10 +991,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1086,10 +1003,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1099,10 +1015,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1112,10 +1027,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1125,10 +1039,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1138,10 +1051,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1151,10 +1063,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1164,10 +1075,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1177,10 +1087,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1190,10 +1099,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1203,10 +1111,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1216,10 +1123,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1229,10 +1135,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
@@ -1242,10 +1147,9 @@
         Some Text
     </FirstElement>
     <?some_pi some_attr="some_value"?>
-    <!-- this is a comment -- but this isnt part of the comment -->
+    <!-- this is a comment but this isnt part of the comment -->
     <!-- this is a comment == and this is a part of the comment -->
     <!-- this is a comment > and this is also part of the thing -->
-    <!invalid comment>
     <![CDATA[ this is random stuff. & and < and > are ok in here. ]]>
     <SecondElement param2="something">
         Pre-Text &amp; <Inline>Inlined text</Inline> Post-text.
